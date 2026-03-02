@@ -12,7 +12,7 @@ import Developer from "./pages/Developer";
 import Stalker from "./pages/stalker";
 import Skills from "./pages/Skills";
 import Projects from "./pages/Projects";
-import Certifications from "./pages/Certifications";
+import Certifications from "./pages/certifications";
 import HireMe from "./pages/HireMe";
 import Status from "./pages/Status";
 import Interests from "./pages/Interests";
