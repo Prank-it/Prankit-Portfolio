@@ -29,16 +29,13 @@ export default function HireMe() {
               <h2 className="text-xl sm:text-2xl font-semibold leading-tight">
                 Prankit Srivastava
               </h2>
-              <p className="text-white/70 mt-1">Software Engineer</p>
+              <p className="text-white/70 mt-1">CSE UNDERGRADUATE</p>
 
               <p className="text-white/75 mt-4 leading-relaxed text-sm sm:text-base">
-                With experience in full-stack development and a focus on building
-                clean UI + solid backend systems. Always open to internships,
-                freelance work, and collaborations.
-              </p>
+                I’m a first-year B.Tech student actively building my foundation in DSA, OOPs, and modern web development. I enjoy learning by building real projects and improving them through feedback. I’m currently looking for opportunities to learn, contribute, and grow as a developer through internships, freelance work, or collaborations.
 
               <p className="text-white/50 mt-5 text-sm">
-                Lucknow, India
+                Noida, India
               </p>
 
               {/* LinkedIn button */}
