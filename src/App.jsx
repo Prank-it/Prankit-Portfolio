@@ -9,7 +9,7 @@ import Profiles from "./pages/Profiles";
 
 import Recruiter from "./pages/Recruiter";
 import Developer from "./pages/Developer";
-import Stalker from "./pages/Stalker";
+import Stalker from "./pages/stalker";
 import Skills from "./pages/Skills";
 import Projects from "./pages/Projects";
 import Certifications from "./pages/Certifications";
