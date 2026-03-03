@@ -33,7 +33,7 @@ export default function HireMe() {
 
               <p className="text-white/75 mt-4 leading-relaxed text-sm sm:text-base">
                 I’m a first-year B.Tech student actively building my foundation in DSA, OOPs, and modern web development. I enjoy learning by building real projects and improving them through feedback. I’m currently looking for opportunities to learn, contribute, and grow as a developer through internships, freelance work, or collaborations.
-
+</p>
               <p className="text-white/50 mt-5 text-sm">
                 Noida, India
               </p>
